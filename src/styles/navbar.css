@@ -1,0 +1,78 @@
+/* Style for the navigation bar */
+.navbar {
+    padding: 10px;
+    /* Padding for spacing */
+    /* Fixed position to keep navbar visible at the top */
+    top: 0;
+    /* Align to the top of the page */
+    width: 100%;
+    /* Full width */
+    z-index: 10;
+    /* Set background color */
+    display: flex;
+    /* Use Flexbox layout */
+    justify-content: space-between;
+    /* Space out child elements */
+    align-items: center;
+    /* Align items vertically */
+  }
+  
+  .nav-link {
+    margin-top: -130px;
+    text-decoration: none;
+    margin-bottom: -60px;
+  }
+  
+  /* Styling for the links-container div */
+  .links-container {
+    display: flex;
+    /* Use Flexbox layout */
+    flex-direction: column;
+    /* Arrange links vertically */
+    align-items: flex-end;
+    /* Align links to the right side */
+  }
+  
+  /* Styling for the logo */
+  .logo {
+    margin-right: auto;
+    /* Push the logo to the left side */
+    font-weight: bold;
+    /* Bold font */
+    font-size: 1.2rem;
+    /* Set font size */
+    color: #b5b5b5;
+    text-decoration: none;
+    /* Set color */
+  }
+  
+  /* Styling for links */
+  .links-container a {
+    display: block;
+    /* Display links as block elements */
+    font-size: 1rem;
+    /* Font size for links */
+    color: #b5b5b5;
+    /* Text color */
+    text-decoration: none;
+    /* Remove underline from links */
+    padding: 5px 10px;
+    /* Padding for spacing */
+    transition: color 0.3s;
+    /* Smooth transition for hover effect */
+    font-size: 1.4rem;
+    font-weight: 300;
+    margin-top: 60px;
+    margin-right: 15px;
+    /* Space between links */
+  }
+  
+  /* Hover effect for links in the links-container */
+  .links-container a:hover {
+    color: #ec4e39;
+    /* Color change on hover */
+  }
+  
+  .logo:hover {
+    color: #ec4e39;
+  }

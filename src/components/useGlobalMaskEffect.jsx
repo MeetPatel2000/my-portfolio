@@ -5,7 +5,7 @@ import useMousePosition from '../components/useMousePosition ';
 const GlobalMaskEffect = ({ children }) => {
     const [isHovered, setIsHovered] = useState(false);
     const { x, y } = useMousePosition();
-    const size = isHovered ? 400 : 40;
+    const size = isHovered ? 100 : 10;
 
     return (
         <motion.div

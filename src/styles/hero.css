@@ -1,0 +1,16 @@
+h1 {
+    font-size: 4rem;
+    color: #b5b5b5;
+  }
+
+  
+  .typing-container {
+    min-height: 60px; /* Set a fixed height that is consistent with the height of your text */
+    white-space: nowrap; /* Prevent text from wrapping */
+    color: #b5b5b5;
+  }
+  
+  #hero {
+    height: 72vh;
+    width: 40vh;
+  }

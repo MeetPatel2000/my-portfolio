@@ -1,4 +1,5 @@
 // Navbar.js
+import "../styles/navbar.css"
 import React from "react";
 import { motion, useMotionValue, useSpring } from "framer-motion";
 import { useState } from "react";

@@ -1,10 +1,11 @@
+import "../styles/hero.css"
 import React from "react";
 import { motion } from "framer-motion";
 import { Typewriter, AnimText } from "./motiontext"; // Import the function
 
 
 const Hero = () => {
-    const phrases = ["I'm a software developer", "I'm a full-stack developer"];
+    const phrases = ["I'm a full-stack developer","I'm a software developer","Im a full stack developer"];
     return (
             <section className="hero" id="hero">
                 <div>
@@ -40,13 +41,6 @@ const Hero = () => {
                         </h2>
                     </motion.div>
                 </div>
-
-                <div className="profileDiv"></div>
-                <img
-                    className="profileIMG"
-                    src={require("../static/Images/profile.jpeg")}
-                    alt=""
-                />
             </section>
     );
 };
