@@ -6,6 +6,7 @@ import Hero from "./components/hero";
 import Main from "./components/main";
 import SkillsSection from "./components/skills";
 import MainComponent from "./components/scrollVelocity";
+import ProjectCard from "./components/projectsection";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <MainComponent />
       <Main />
       <SkillsSection />
+      <ProjectCard />
 
       {/* Your other components */}
     </div>
