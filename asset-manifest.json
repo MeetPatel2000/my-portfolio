@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b464db22.css",
-    "main.js": "/my-portfolio/static/js/main.a7b427a9.js",
+    "main.css": "/my-portfolio/static/css/main.04d3e27d.css",
+    "main.js": "/my-portfolio/static/js/main.5558b2c7.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Trees.jpg": "/my-portfolio/static/media/Trees.259e3d1d3b575bb8c057.jpg",
+    "static/media/Gym-Blog.png": "/my-portfolio/static/media/Gym-Blog.ed36bd797e4057b50d9d.png",
+    "static/media/Jootabajar.png": "/my-portfolio/static/media/Jootabajar.b3ad93fd06f4cd4acae2.png",
     "static/media/profile.jpeg": "/my-portfolio/static/media/profile.1008640385e782403a8e.jpeg",
     "index.html": "/my-portfolio/index.html",
     "static/media/Ellipse 2.svg": "/my-portfolio/static/media/Ellipse 2.02343adc925a7391101b.svg",
-    "main.b464db22.css.map": "/my-portfolio/static/css/main.b464db22.css.map",
-    "main.a7b427a9.js.map": "/my-portfolio/static/js/main.a7b427a9.js.map",
+    "main.04d3e27d.css.map": "/my-portfolio/static/css/main.04d3e27d.css.map",
+    "main.5558b2c7.js.map": "/my-portfolio/static/js/main.5558b2c7.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b464db22.css",
-    "static/js/main.a7b427a9.js"
+    "static/css/main.04d3e27d.css",
+    "static/js/main.5558b2c7.js"
   ]
 }
